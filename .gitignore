@@ -1,0 +1,5 @@
+# Ignore all dot folders
+.*/
+
+# Ignore cours cpp
+cours cpp/
